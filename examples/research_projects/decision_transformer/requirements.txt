@@ -110,7 +110,7 @@ MarkupSafe==1.1.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
 mccabe==0.6.1
-msgpack==1.0.3
+msgpack==1.2.3
 mujoco-py==2.1.2.14
 multidict==6.0.2
 multiprocess==0.70.12.2
